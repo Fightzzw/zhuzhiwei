@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Zhu Zhiwei
     - name: Date of Birth
-      value: 14th March 1879
+      value: 27th December 1999
     - name: Languages
-      value: English, German
+      value: Chinese, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD candidate
+      institution: Zhejiang University, Hangzhou, China
+      year: 2021~
       description:
         - Description 1.
         - Description 2.
@@ -21,19 +21,19 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Bachelor
+      institution: Tianjin University, Tianjin, China
+      year: 2017~2021
       description:
-        - Description 1.
+        - I have studied in Qiushi Honor College (College of Future Technology), majoring in electronic Information Engineering.
         - Description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Technical engineer (intern)
+      institution: Bull Lab of data communication product line , Huawei Beijing Institute
+      year: 2020.07 - 2020.11
       description:
         - Description 1.
         - Description 2.
